@@ -1,0 +1,26 @@
+*{
+    border:solid
+}
+.header{
+    background-color:#808080;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    justify-content: first baseline;
+    flex-wrap: wrap;
+  
+    
+}
+.item{
+    position:absolute
+top: 50%;
+left:50%;
+}
+img{
+  
+width:700px;
+height:750px
+   
+}
